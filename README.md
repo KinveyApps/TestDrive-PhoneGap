@@ -10,7 +10,7 @@ This project makes use of the [PhoneGap CLI](https://github.com/mwbrooks/phonega
 `npm install -g phonegap`
 
 ### Build
-Replace `App Key` and `App Secret` (`js/index.js`) with your application credentials.
+Replace `App Key` and `App Secret` (`www/js/index.js`) with your application credentials.
 
 Next, depending on the platform you’re targeting, build the project.
 
