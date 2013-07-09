@@ -1,0 +1,5 @@
+.project
+.settings
+merges
+platforms
+plugins/*
