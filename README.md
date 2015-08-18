@@ -17,6 +17,14 @@ Next, depending on the platform you’re targeting, build the project.
 * Android: `phonegap build android`
 * iOS: `phonegap build ios`
 
+### Test
+
+Execute `phonegap run ios --device` to run the project on an iOS device. You will have to install [ios-deploy](https://github.com/phonegap/ios-deploy#installation) to deploy it to your device.
+
+*or*  
+
+Execute `phonegap run android --device` to run the project on an Android device.
+
 ## Functionality
 This application demonstrates:
 
